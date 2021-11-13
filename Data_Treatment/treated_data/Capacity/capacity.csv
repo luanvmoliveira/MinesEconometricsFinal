@@ -1,0 +1,149 @@
+;Year;Energy Source;Capacity;Technology
+2;2010;BIT;186530.60000000006;Conventional Steam Coal
+9;2010;LIG;16381.9;Conventional Steam Coal
+12;2010;NG;465019.9000000009;Natural Gas Steam Turbine
+24;2010;SUB;137392.09999999998;Conventional Steam Coal
+25;2010;SUN;912.3000000000008;Solar Photovoltaic
+28;2010;WC;1991.3;Conventional Steam Coal
+32;2010;WND;39516.3;Onshore Wind Turbine
+2;2017;BIT;109698.49999999997;Conventional Steam Coal
+9;2017;LIG;10522.6;Conventional Steam Coal
+12;2017;NG;522378.00000000105;Natural Gas Steam Turbine
+22;2017;RC;50354.000000000015;Conventional Steam Coal
+26;2017;SUB;105820.70000000001;Conventional Steam Coal
+27;2017;SUN;27249.70000000005;Solar Photovoltaic
+30;2017;WC;1828.1;Conventional Steam Coal
+34;2017;WND;88315.69999999998;Onshore Wind Turbine
+2;2019;BIT;96885.99999999999;Conventional Steam Coal
+9;2019;LIG;7084.9000000000015;Conventional Steam Coal
+12;2019;NG;542413.2000000037;Natural Gas Steam Turbine
+22;2019;RC;47243.50000000003;Conventional Steam Coal
+26;2019;SUB;94403.40000000001;Conventional Steam Coal
+27;2019;SUN;37788.00000000008;Solar Photovoltaic
+30;2019;WC;1671.1;Conventional Steam Coal
+34;2019;WND;104333.6;Onshore Wind Turbine
+2;2018;BIT;105010.89999999997;Conventional Steam Coal
+9;2018;LIG;7191.100000000001;Conventional Steam Coal
+12;2018;NG;537292.1000000036;Natural Gas Steam Turbine
+22;2018;RC;51771.50000000002;Conventional Steam Coal
+26;2018;SUB;97332.50000000001;Conventional Steam Coal
+27;2018;SUN;32238.700000000088;Solar Photovoltaic
+30;2018;WC;1769.1;Conventional Steam Coal
+34;2018;WND;94970.5;Onshore Wind Turbine
+2;2020;BIT;83495.50000000003;Conventional Steam Coal
+9;2020;LIG;2909.8999999999996;Conventional Steam Coal
+12;2020;NG;551680.7000000048;Natural Gas Steam Turbine
+22;2020;RC;60286.20000000002;Conventional Steam Coal
+26;2020;SUB;84814.20000000003;Conventional Steam Coal
+27;2020;SUN;48338.50000000009;Solar Photovoltaic
+29;2020;WC;1623.1;Conventional Steam Coal
+33;2020;WND;118728.19999999998;Onshore Wind Turbine
+2;2016;BIT;118087.99999999997;Conventional Steam Coal
+9;2016;LIG;10522.6;Conventional Steam Coal
+12;2016;NG;512535.4000000004;Natural Gas Steam Turbine
+22;2016;RC;52118.9;Conventional Steam Coal
+25;2016;SUB;106871.3;Conventional Steam Coal
+26;2016;SUN;22121.90000000001;Solar Photovoltaic
+29;2016;WC;1828.1;Conventional Steam Coal
+33;2016;WND;82047.99999999997;Onshore Wind Turbine
+2;2011;BIT;185639.10000000018;Conventional Steam Coal
+9;2011;LIG;17266.100000000002;Conventional Steam Coal
+12;2011;NG;477386.90000000165;Natural Gas Steam Turbine
+26;2011;SUB;138531.1000000001;Conventional Steam Coal
+27;2011;SUN;1564.3999999999999;Solar Photovoltaic
+30;2011;WC;1994.8;Conventional Steam Coal
+34;2011;WND;45982.40000000009;Onshore Wind Turbine
+2;2002;BIT;5392729.5000001285;Conventional Steam Coal
+9;2002;LIG;347668.0000000013;Conventional Steam Coal
+11;2002;NG;8174236.799999261;Natural Gas Steam Turbine
+21;2002;SUB;2019446.0000000133;Conventional Steam Coal
+22;2002;SUN;9528.900000000003;Solar Photovoltaic
+25;2002;WC;30847.60000000002;Conventional Steam Coal
+28;2002;WND;104208.39999999752;Onshore Wind Turbine
+2;2005;BIT;183826.5000000002;Conventional Steam Coal
+9;2005;LIG;15007.800000000003;Conventional Steam Coal
+11;2005;NG;451946.79999999976;Natural Gas Steam Turbine
+22;2005;SUB;131632.4;Conventional Steam Coal
+23;2005;SUN;411.7;Solar Photovoltaic
+26;2005;WC;2104.1000000000004;Conventional Steam Coal
+30;2005;WND;8745.899999999998;Onshore Wind Turbine
+2;2004;BIT;184052.1000000002;Conventional Steam Coal
+9;2004;LIG;15118.400000000001;Conventional Steam Coal
+11;2004;NG;435085.0999999992;Natural Gas Steam Turbine
+21;2004;SUB;131443.00000000003;Conventional Steam Coal
+22;2004;SUN;404.3;Solar Photovoltaic
+25;2004;WC;2133.7;Conventional Steam Coal
+29;2004;WND;6530.299999999999;Onshore Wind Turbine
+2;2003;BIT;4585902.000000108;Conventional Steam Coal
+9;2003;LIG;302368.00000000076;Conventional Steam Coal
+11;2003;NG;8214039.999999329;Natural Gas Steam Turbine
+22;2003;SUB;1843250.000000006;Conventional Steam Coal
+23;2003;SUN;8086.000000000008;Solar Photovoltaic
+26;2003;WC;28164.00000000002;Conventional Steam Coal
+29;2003;WND;122555.99999999908;Onshore Wind Turbine
+2;2014;BIT;169544.69999999998;Conventional Steam Coal
+9;2014;LIG;12976.500000000002;Conventional Steam Coal
+12;2014;NG;495120.2000000014;Natural Gas Steam Turbine
+22;2014;RC;1272.1;Conventional Steam Coal
+27;2014;SUB;139145.70000000013;Conventional Steam Coal
+28;2014;SUN;10437.699999999999;Solar Photovoltaic
+31;2014;WC;1895.0999999999997;Conventional Steam Coal
+35;2014;WND;65300.100000000035;Onshore Wind Turbine
+2;2013;BIT;174069.0;Conventional Steam Coal
+9;2013;LIG;12870.300000000001;Conventional Steam Coal
+12;2013;NG;488168.6000000015;Natural Gas Steam Turbine
+22;2013;RC;1272.1;Conventional Steam Coal
+26;2013;SUB;138694.40000000005;Conventional Steam Coal
+27;2013;SUN;6673.700000000005;Solar Photovoltaic
+30;2013;WC;1911.3;Conventional Steam Coal
+34;2013;WND;60712.20000000006;Onshore Wind Turbine
+2;2012;BIT;178658.60000000018;Conventional Steam Coal
+9;2012;LIG;17246.7;Conventional Steam Coal
+12;2012;NG;485956.9000000014;Natural Gas Steam Turbine
+25;2012;SUB;138331.40000000008;Conventional Steam Coal
+26;2012;SUN;3214.9000000000005;Solar Photovoltaic
+29;2012;WC;1911.3;Conventional Steam Coal
+33;2012;WND;59629.400000000074;Onshore Wind Turbine
+2;2015;BIT;147606.5999999999;Conventional Steam Coal
+9;2015;LIG;12364.300000000003;Conventional Steam Coal
+12;2015;NG;503936.9000000008;Natural Gas Steam Turbine
+22;2015;RC;62.5;Conventional Steam Coal
+27;2015;SUB;141930.89999999988;Conventional Steam Coal
+28;2015;SUN;13758.299999999996;Solar Photovoltaic
+31;2015;WC;1828.1;Conventional Steam Coal
+35;2015;WND;73393.19999999997;Onshore Wind Turbine
+2;2008;BIT;193399.20000000024;Conventional Steam Coal
+9;2008;LIG;15151.2;Conventional Steam Coal
+11;2008;NG;477520.2;Natural Gas Steam Turbine
+22;2008;SUB;133437.10000000003;Conventional Steam Coal
+23;2008;SUN;539.3000000000004;Solar Photovoltaic
+26;2008;WC;2162.1;Conventional Steam Coal
+30;2008;WND;25045.10000000002;Onshore Wind Turbine
+2;2006;BIT;184190.80000000022;Conventional Steam Coal
+9;2006;LIG;15151.2;Conventional Steam Coal
+11;2006;NG;461138.19999999925;Natural Gas Steam Turbine
+22;2006;SUB;132259.7;Conventional Steam Coal
+23;2006;SUN;411.70000000000005;Solar Photovoltaic
+26;2006;WC;2084.2;Conventional Steam Coal
+30;2006;WND;11384.999999999985;Onshore Wind Turbine
+2;2001;BIT;4965510.900000133;Conventional Steam Coal
+10;2001;LIG;306698.70000000065;Conventional Steam Coal
+12;2001;NG;5513451.299999613;Natural Gas Steam Turbine
+22;2001;SUB;1772381.1000000192;Conventional Steam Coal
+23;2001;SUN;8696.100000000004;Solar Photovoltaic
+26;2001;WC;24294.90000000002;Conventional Steam Coal
+30;2001;WND;82284.29999999808;Onshore Wind Turbine
+2;2007;BIT;186090.1000000002;Conventional Steam Coal
+9;2007;LIG;15151.2;Conventional Steam Coal
+11;2007;NG;470045.0999999997;Natural Gas Steam Turbine
+22;2007;SUB;132222.80000000002;Conventional Steam Coal
+23;2007;SUN;502.9;Solar Photovoltaic
+26;2007;WC;2112.2000000000003;Conventional Steam Coal
+30;2007;WND;16648.899999999987;Onshore Wind Turbine
+2;2009;BIT;186235.0000000002;Conventional Steam Coal
+9;2009;LIG;14786.2;Conventional Steam Coal
+11;2009;NG;459406.5000000011;Natural Gas Steam Turbine
+22;2009;SUB;135568.00000000003;Conventional Steam Coal
+23;2009;SUN;640.1999999999999;Solar Photovoltaic
+26;2009;WC;2134.1;Conventional Steam Coal
+30;2009;WND;34683.20000000003;Onshore Wind Turbine
